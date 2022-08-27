@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "faunadb": "^4.6.0",
     "next": "12.2.4",
+    "next-auth": "^4.10.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "^1.54.5"
+    "react-icons": "^4.4.0",
+    "sass": "^1.54.5",
+    "stripe": "^10.6.0"
   },
   "devDependencies": {
     "@types/node": "^18.6.5",
